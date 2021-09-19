@@ -1,4 +1,5 @@
 {
   "extends": "./node_modules/@fitbit/sdk/sdk-tsconfig.json",
-  "noUnusedLocals": "false"
+  "noUnusedLocals": "false",
+  "allowJs": "true"
 }
